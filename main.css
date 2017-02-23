@@ -29,6 +29,11 @@
   padding-top: 50px;
 }
 
+.project-section-1,
+.project-section-2 {
+  height: 30vh;
+}
+
 .landing {
   background-image: url(wet_snow.png);
   background-image: url(tree_bark.png);
@@ -74,6 +79,7 @@
   border-radius: 50%;
   border: double 8px black;
 }
+
 
 .ch-item {
   width: 100%;
