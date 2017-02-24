@@ -1,0 +1,219 @@
+<!-- USE THIS ONE -->
+
+<div class="row project" id="project">
+  <h1 class="text-center project-title">Projects</h1>
+
+  <div class="row project-section-1 text-center">
+    <ul class="ch-grid col-xs-12"  style="list-style: none;">
+      <div class="col-xs-12 col-md-4">
+        <li>
+          <div class="ch-item">
+            <div class="ch-info-wrap">
+              <div class="ch-info">
+                <div class="ch-info-front" style="background-color: blue">Project 1</div>
+                <div class="ch-info-back">
+                  <h3>Dating Game</h3>
+                  <p>A trivia game built using: HTML | CSS | JS <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+      </div>
+      <div class="col-xs-12 col-md-4">
+        <li>
+          <div class="ch-item">
+            <div class="ch-info-wrap">
+              <div class="ch-info">
+                <div class="ch-info-front" style="background-color: green">Project 2</div>
+                <div class="ch-info-back">
+                  <h3>Bears Type</h3>
+                  <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+      </div>
+      <div class="col-xs-12 col-md-4">
+        <li>
+          <div class="ch-item">
+            <div class="ch-info-wrap">
+              <div class="ch-info">
+                <div class="ch-info-front" style="background-color: purple">Project 3</div>
+                <div class="ch-info-back">
+                  <h3>Bears Type</h3>
+                  <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+      </div>
+    </ul>
+  </div>
+
+  <div class="row project-section-2 text-center">
+    <ul class="ch-grid col-xs-12"  style="list-style: none;">
+      <div class="col-xs-3">
+        <li>
+          <div class="ch-item">
+            <div class="ch-info-wrap">
+              <div class="ch-info">
+                <div class="ch-info-front" style="background-color: yellow">Project 4</div>
+                <div class="ch-info-back">
+                  <h3>Dating Game</h3>
+                  <p>A trivia game built using: HTML | CSS | JS <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+      </div>
+      <div class="col-xs-3">
+        <li>
+          <div class="ch-item">
+            <div class="ch-info-wrap">
+              <div class="ch-info">
+                <div class="ch-info-front" style="background-color: teal"> Project 5</div>
+                <div class="ch-info-back">
+                  <h3>Bears Type</h3>
+                  <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+      </div>
+      <div class="col-xs-3">
+        <li>
+          <div class="ch-item">
+            <div class="ch-info-wrap">
+              <div class="ch-info">
+                <div class="ch-info-front" style="background-color: pink">Project 6</div>
+                <div class="ch-info-back">
+                  <h3>Bears Type</h3>
+                  <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+      </div>
+      <div class="col-xs-3">
+        <li>
+          <div class="ch-item">
+            <div class="ch-info-wrap">
+              <div class="ch-info">
+                <div class="ch-info-front" style="background-color: violet">Project 7</div>
+                <div class="ch-info-back">
+                  <h3>Bears Type</h3>
+                  <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </li>
+      </div>
+    </ul>
+  </div>
+</div>
+
+
+
+<!-- DONT USE THIS ONE -->
+<!--     <div class="row project" id="project">
+      <h1 class="text-center project-title">Projects</h1>
+      <ul class="ch-grid col-xs-12"  style="list-style: none;">
+        <div class="col-md-2 text-center">
+          <li>
+            <div class="ch-item ch-img-1 even">
+              <div class="ch-info-wrap">
+                <div class="ch-info">
+                  <div class="ch-info-front ch-img-1"></div>
+                  <div class="ch-info-back">
+                    <h3>Dating Game</h3>
+                    <p>A trivia game built using: HTML | CSS | JS <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </div>
+        <div class="col-md-2 text-center">
+          <li>
+            <div class="ch-item ch-img-2">
+              <div class="ch-info-wrap">
+                <div class="ch-info">
+                  <div class="ch-info-front ch-img-2"></div>
+                  <div class="ch-info-back">
+                    <h3>Bears Type</h3>
+                    <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </div>
+        <div class="col-md-2 even text-center">
+          <li>
+            <div class="ch-item ch-img-3">
+              <div class="ch-info-wrap">
+                <div class="ch-info">
+                  <div class="ch-info-front ch-img-3"></div>
+                  <div class="ch-info-back">
+                    <h3>Bears Type</h3>
+                    <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </div>
+        <div class="col-md-2 text-center">
+          <li>
+            <div class="ch-item ch-img-4">
+              <div class="ch-info-wrap">
+                <div class="ch-info">
+                  <div class="ch-info-front ch-img-4"></div>
+                  <div class="ch-info-back">
+                    <h3>Bears Type</h3>
+                    <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </div>
+        <div class="col-md-2 even text-center">
+          <li>
+            <div class="ch-item ch-img-5">
+              <div class="ch-info-wrap">
+                <div class="ch-info">
+                  <div class="ch-info-front ch-img-5"></div>
+                  <div class="ch-info-back">
+                    <h3>Bears Type</h3>
+                    <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </div>
+        <div class="col-md-2 text-center">
+          <li>
+            <div class="ch-item ch-img-6">
+              <div class="ch-info-wrap">
+                <div class="ch-info">
+                  <div class="ch-info-front ch-img-6"></div>
+                  <div class="ch-info-back">
+                    <h3>Bears Type</h3>
+                    <p>by Josh Schott <a href="http://drbl.in/ewUW">View on Dribbble</a></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </div>
+      </ul>
+    </div> -->
