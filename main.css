@@ -25,7 +25,7 @@
 .landing,
 .about,
 .project {
-  height: 99.5vh;
+  height: 100%;
   padding-top: 50px;
 }
 
@@ -57,9 +57,9 @@
 }
 
 .square {
-  width: 200px;
-  height: 200px;
-  border: 4px grey solid;
+  width: 300px;
+  height: 300px;
+  /*border: 4px grey solid;*/
   text-align: center;
   margin: 3em auto;
 }
@@ -68,30 +68,78 @@
   background-color: #6090AE;
 }
 
+.s1:hover {
+  -webkit-transform: rotateZ(-5deg);
+  -ms-transform: rotateZ(-5deg);
+  transform: rotateZ(-5deg);
+}
+
 .s2 {
   background-color: #446455;
+}
+
+.s2:hover {
+  -webkit-transform: rotateZ(-0deg);
+  -ms-transform: rotateZ(5deg);
+  transform: rotateZ(5deg);
 }
 
 .s3 {
   background-color: #FDD262;
 }
 
+.s3:hover {
+  -webkit-transform: rotateZ(-5deg);
+  -ms-transform: rotateZ(-5deg);
+  transform: rotateZ(-5deg);
+}
+
 .s4 {
   background-color: #C7B19C;
+}
+
+.s4:hover {
+  -webkit-transform: rotateZ(-0deg);
+  -ms-transform: rotateZ(5deg);
+  transform: rotateZ(5deg);
 }
 
 .s5 {
   background-color: #C27D38;
 }
 
+.s5:hover {
+  -webkit-transform: rotateZ(-5deg);
+  -ms-transform: rotateZ(-5deg);
+  transform: rotateZ(-5deg);
+}
+
 .s6 {
   background-color: #A45E60;
+}
+
+.s6:hover {
+  -webkit-transform: rotateZ(-0deg);
+  -ms-transform: rotateZ(5deg);
+  transform: rotateZ(5deg);
 }
 
 .s7 {
   background-color: #D3DDDC;
 }
 
+.s7:hover {
+  -webkit-transform: rotateZ(-5deg);
+  -ms-transform: rotateZ(-5deg);
+  transform: rotateZ(-5deg);
+}
+
 .s8 {
   background-color: #937C90;
+}
+
+.s8:hover {
+  -webkit-transform: rotateZ(-0deg);
+  -ms-transform: rotateZ(5deg);
+  transform: rotateZ(5deg);
 }
