@@ -18,12 +18,19 @@
   text-align: center;
 }
 
+.p-title{
+  font-family: 'Amatic SC', cursive;
+}
+
 .space-above{
-  margin-top: 5%;
+  padding-top: 5%;
 }
 
 .landing,
-.about,
+.about {
+  height: 99.5vh;
+}
+
 .project {
   height: 100%;
   padding-top: 50px;
@@ -143,4 +150,14 @@
   -webkit-transform: rotateZ(-0deg);
   -ms-transform: rotateZ(5deg);
   transform: rotateZ(5deg);
+}
+
+.s9 {
+  background-color: #008F77;
+}
+
+.s9:hover {
+  -webkit-transform: rotateZ(-5deg);
+  -ms-transform: rotateZ(-5deg);
+  transform: rotateZ(-5deg);
 }
