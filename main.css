@@ -52,6 +52,10 @@
   text-align: center;
 }
 
+.p-des {
+  color: white;
+}
+
 .footer{
   margin: 1em auto;
 }
@@ -70,6 +74,7 @@
   text-align: center;
   margin: 3em auto;
   padding: 1em;
+  box-shadow: 5px 5px 5px #888888;
 }
 
 .s1 {
@@ -133,7 +138,7 @@
 }
 
 .s7 {
-  background-color: #D3DDDC;
+  background-color: #B5BFBF;
 }
 
 .s7:hover {
@@ -147,7 +152,7 @@
 }
 
 .s8:hover {
-  -webkit-transform: rotateZ(-0deg);
+  -webkit-transform: rotateZ(0deg);
   -ms-transform: rotateZ(5deg);
   transform: rotateZ(5deg);
 }
@@ -161,3 +166,16 @@
   -ms-transform: rotateZ(-5deg);
   transform: rotateZ(-5deg);
 }
+
+.footer-icon-odd:hover {
+  -webkit-transform: rotateZ(-5deg);
+  -ms-transform: rotateZ(-5deg);
+  transform: rotateZ(-5deg);
+}
+
+.footer-icon-even:hover {
+  -webkit-transform: rotateZ(0deg);
+  -ms-transform: rotateZ(5deg);
+  transform: rotateZ(5deg);
+}
+
