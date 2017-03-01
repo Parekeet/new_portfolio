@@ -29,30 +29,11 @@
   padding-top: 50px;
 }
 
-
-.project-section-1 {
-  top: 15vh;
-  height: 50vh;
-  min-width: 700px;
-}
-
-.landing {
-  background-image: url(wet_snow.png);
-  background-image: url(tree_bark.png);
-}
-
-.about {
-  background-image: url(wet_snow.png);
-  background-image: url(tree_bark.png);
-}
-
+.landing,
+.about,
 .project {
   background-image: url(wet_snow.png);
   background-image: url(tree_bark.png);
-}
-
-.footer {
-  height: 5vh;
 }
 
 .navbar-inner {
@@ -61,22 +42,11 @@
 
 
 .project-box{
-  border: solid black 3px;
-  height: 400px;
-  max-width: 200px;
-  margin: 15px;
+  text-align: center;
 }
-
-/*.even {
-  top: 30%;
-}
-
-.odd {
-  bottom: 30%;
-}*/
 
 .footer{
-  margin-top: 50px;
+  margin: 1em auto;
 }
 
 .profile_picture {
@@ -86,131 +56,42 @@
   border: double 8px black;
 }
 
-
-.ch-item {
-  /*left: 50%;*/
-  max-width: 33.33%;
-  height: 100%;
-  border-radius: 50%;
-  position: relative;
-  /*box-shadow: 0 1px 2px rgba(0,0,0,0.1);*/
-  cursor: default;
+.square {
+  width: 200px;
+  height: 200px;
+  border: 4px grey solid;
+  text-align: center;
+  margin: 3em auto;
 }
 
-
-.ch-info-wrap,
-.ch-info{
-  position: absolute;
-  width: 180px;
-  height: 180px;
-  border-radius: 50%;
-  transition: all 0.4s ease-in-out;
+.s1 {
+  background-color: #6090AE;
 }
 
-.ch-info-wrap {
-  top: 20px;
-  left: 20px;
-  background: #f9f9f9 url(../images/bg.jpg);
-  box-shadow:
-    0 0 0 20px rgba(255,255,255,0.2),
-    inset 0 0 3px rgba(115,114, 23, 0.8);
-  perspective: 800px;
+.s2 {
+  background-color: #446455;
 }
 
-.ch-info {
-  transform-style: preserve-3d;
+.s3 {
+  background-color: #FDD262;
 }
 
-.ch-info > div {
-  display: block;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  border-radius: 50%;
-  background-position: center center;
-  transition: all 0.6s ease-in-out;
+.s4 {
+  background-color: #C7B19C;
 }
 
-.ch-info .ch-info-front {
-  transform-origin: 50% 100%;
-  z-index: 100;
-  box-shadow:
-    inset 2px 1px 4px rgba(0,0,0,0.1);
+.s5 {
+  background-color: #C27D38;
 }
 
-.ch-info .ch-info-back {
-  background: rgba(230,132,107,0);
+.s6 {
+  background-color: #A45E60;
 }
 
-.ch-img-1 {
-  background-image: url(1.png);
+.s7 {
+  background-color: #D3DDDC;
 }
 
-.ch-img-2 {
-  background-image: url(2.png);
-}
-
-.ch-img-3 {
-  background-image: url(3.png);
-}
-.ch-img-4 {
-  background-image: url(4.png);
-}
-
-.ch-img-5 {
-  background-image: url(5.png);
-}
-
-.ch-img-6 {
-  background-image: url(6.png);
-}
-
-.ch-info h3 {
-  color: #fff;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-size: 14px;
-  margin: 0 25px;
-  padding: 40px 0 0 0;
-  height: 90px;
-  font-family: 'Open Sans', Arial, sans-serif;
-  text-shadow:
-    0 0 1px #fff,
-    0 1px 2px rgba(0,0,0,0.3);
-}
-
-.ch-info p {
-  color: #fff;
-  padding: 10px 5px;
-  font-style: italic;
-  margin: 0 30px;
-  font-size: 12px;
-  border-top: 1px solid rgba(255,255,255,0.5);
-}
-
-.ch-info p a {
-  display: block;
-  color: rgba(255,255,255,0.7);
-  font-style: normal;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: 9px;
-  letter-spacing: 1px;
-  padding-top: 4px;
-  font-family: 'Open Sans', Arial, sans-serif;
-}
-
-.ch-info p a:hover {
-  color: rgba(255,242,34, 0.8);
-}
-
-.ch-item:hover .ch-info-front {
-  transform: rotate3d(1,0,0,-180deg);
-  box-shadow:
-    inset 0 0 5px rgba(255,255,255,0.2),
-    inset 0 0 3px rgba(0,0,0,0.3);
-}
-
-.ch-item:hover .ch-info-back {
-  background: rgba(230,132,107,0.6);
+.s8 {
+  background-color: #937C90;
 }
